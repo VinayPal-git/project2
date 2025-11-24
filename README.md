@@ -1,3 +1,4 @@
 # New Project
 
-This project was created from local repo
+This project was created from local repo.
+Created by Vinay Pal.
